@@ -1,0 +1,5 @@
+{
+  "name": "NotifyHub",
+  "description": "A comprehensive notification management system for scheduling and sending messages via Zalo, Telegram, and Email.",
+  "requestFramePermissions": []
+}
